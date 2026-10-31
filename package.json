@@ -1,0 +1,13 @@
+{
+  "name": "custom-biolink",
+  "version": "1.0.0",
+  "description": "Custom Linktree dengan backend Node.js (tanpa dependency)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
